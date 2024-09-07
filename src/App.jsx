@@ -7,15 +7,15 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://tokenminds.co" target="_blank">
+        <a href="https://kadcoin.vercel.app/" target="_blank">
           <img
             src={`https://framerusercontent.com/images/7Fjd4JhBn4XdPoBAztnI31U.webp`}
             className="logo"
-            alt="Tokenminds logo"
+            alt="kadcoin logo"
           />
         </a>
       </div>
-      <h1>My First Telegram Mini App</h1>
+      <h1>Welcome to KADCOIN</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
@@ -25,7 +25,7 @@ function App() {
         <p>
           Click{" "}
           <a
-            href="https://docs.ton.org/develop/dapps/telegram-apps/app-examples"
+            href="https://www.twitter.com/habidoshaker"
             target="_blank"
           >
             here

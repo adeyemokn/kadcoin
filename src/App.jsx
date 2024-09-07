@@ -9,7 +9,7 @@ function App() {
       <div>
         <a href="https://kadcoin.vercel.app/" target="_blank">
           <img
-            src={`https://1drv.ms/i/c/6de8bb7a47005835/IQPZdzaAdSEVQaDj25NEIy2SARd482AhP3-Q1EVXbt0WXOk?width=1024`}
+            src={`https://1drv.ms/i/c/6de8bb7a47005835/IQPZdzaAdSEVQaDj25NEIy2SARd482AhP3-Q1EVXbt0WXOk?width=256`}
             className="logo"
             alt="kadcoin logo"
           />

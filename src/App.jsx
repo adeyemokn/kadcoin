@@ -18,7 +18,7 @@ function App() {
       <h1>Welcome to KADCOIN</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+          Tap2Earn {count}
         </button>
       </div>
       <div>
